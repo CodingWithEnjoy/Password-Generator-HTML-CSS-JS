@@ -7,6 +7,7 @@
 ###
 
 <h4 align="center">🤩🚀  همراه با تنظیمات اعداد، حروف کوچک و بزرگ، وجود کاراکتر تکراری، سمبول ها و فاصله  🚀🤩</h4>
+<h4 align="center">🤩🚀  With Optional Settings Like Numbers, Lowercases & Uppercases, Having Duplicates, Symbols & Spaces  🚀🤩</h4>
 
 ###
 
